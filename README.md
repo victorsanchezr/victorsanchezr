@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/117309310/371106154-32137ca1-9e7d-4ae8-8d86-757bd8f58d2b.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T115432Z&X-Amz-Expires=300&X-Amz-Signature=f598958dda7db8b37e698ef4cddb45e3780bf8e0fb6397a5bfc342a7ad218b87&X-Amz-SignedHeaders=host" align="center" alt="fotoai" />
+ <img width="900px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/117309310/371130107-fffdc3e5-a813-4144-a09b-888fbdc04e45.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T115647Z&X-Amz-Expires=300&X-Amz-Signature=7dc8aa72349543d41c21e87ba2376b2544118b3482c5adf8c88f01dc927a5b52&X-Amz-SignedHeaders=host" align="center" alt="fotoai" />
  <h2 align="center">Víctor Sánchez</h2>
 </p>
 
