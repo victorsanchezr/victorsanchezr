@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="![_89332123-357e-4427-b96c-5fb9c275657a(1)](https://github.com/user-attachments/assets/32137ca1-9e7d-4ae8-8d86-757bd8f58d2b)
+ <img width="100px" src="https://github.com/user-attachments/assets/32137ca1-9e7d-4ae8-8d86-757bd8f58d2b
 " align="center" alt="fotoai" />
  <h2 align="center">Víctor Sánchez</h2>
 </p>
@@ -8,7 +8,6 @@
 > Currenly studyng Ethical hacking and Cibersecurty at [IES El Cañaveral](https://site.educa.madrid.org/ies.elcanaveral.mostoles/index.php/oferta-educativa-ies-el-canaveral/informatica-y-comunicaciones/ce-ce-ciberseguridad-en-entornos-de-las-tecnologias-de-la-informacion/)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
