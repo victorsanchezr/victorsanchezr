@@ -1,4 +1,5 @@
-## Hi there 👋
+![_89332123-357e-4427-b96c-5fb9c275657a](https://github.com/user-attachments/assets/16914abd-4e4f-4fba-a8ed-2c9734e3ca64)
+
 
 <!--
 **victorsanchezr/victorsanchezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
