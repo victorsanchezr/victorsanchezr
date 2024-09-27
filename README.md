@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm Víctor Sánchez
-> Currenly studyng Ethical hacking and Cibersecurty at [IES El Cañaveral](https://site.educa.madrid.org/ies.elcanaveral.mostoles/index.php/oferta-educativa-ies-el-canaveral/informatica-y-comunicaciones/ce-ce-ciberseguridad-en-entornos-de-las-tecnologias-de-la-informacion/)
+> Currenly studyng Ethical hacking and cybersecurity at [IES El Cañaveral](https://site.educa.madrid.org/ies.elcanaveral.mostoles/index.php/oferta-educativa-ies-el-canaveral/informatica-y-comunicaciones/ce-ce-ciberseguridad-en-entornos-de-las-tecnologias-de-la-informacion/)
 
 
 
