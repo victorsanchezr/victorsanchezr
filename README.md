@@ -1,5 +1,5 @@
 <p align="center">
- <img width="900px" src="https://i.imgur.com/T7tepWd.png" align="center" alt="fotoai" />
+ <img width="500px" src="https://i.imgur.com/T7tepWd.png" align="center" alt="fotoai" />
  <h2 align="center">Víctor Sánchez</h2>
 </p>
 
